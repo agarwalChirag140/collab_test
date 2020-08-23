@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 HELLO MASAI
 GIT SESSION
+=======
+HELLO MASAI
+GIT SESSION
+>>>>>>> 34dfb4fb294e5c3d75dbcb34cb1b3c3a3c3f5fb3
